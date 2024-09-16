@@ -1,8 +1,8 @@
 # HEKCell_Analysis
 
-Programs for Analysis of Whole-cell and Outside-out patches. Most recordings are from HEK293 Cells though we have also used routines for patches from brain slices.
+Programs for Analysis of Whole-cell and Outside-out patches used in the LPW Lab. Most recordings are from HEK293 Cells though we have also used routines for patches from brain slices.
 Note that this code is in many ways not very sophisticated or user friendly. The algorithms used for analysis are often cumbersome and were written over an extended time.
-If one wants to use, please verify rigorously the output - that it is capturing properly the data and analysis.
+If one wants to use, please verify rigorously the output - that the routines are capturing properly the data and analysis.
 
 Code was written in Igor Pro 7. Sorry need to upgrade Igor version
 Earlier routines used 'Macros' whereas newer rountines use 'Functions'.
